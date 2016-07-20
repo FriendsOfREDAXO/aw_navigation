@@ -1,4 +1,4 @@
-YForm für REDAXO 5.0
+aw Navigation für REDAXO 5.0
 =============
 
 
@@ -9,14 +9,14 @@ Installation
 
 oder
 
-* ZIP Paket aus https://github.com/yakamara/redaxo_yform herunterladen
-* Unzippten Ordner von redaxo_yform zu yform umbenennen
+* ZIP Paket aus https://github.com/FriendsOfREDAXO/aw_navigation herunterladen
+* Unzippten
 * Ordner in den AddOns Ordner von REDAXO schieben
 * Über das REDAXO Backenend das AddOn installieren und aktivieren
 
 Last Changes
 -------
 
-### Version 5.0 // xx.xx.2015
+### Version 0.2.1 // 20.07.2016
 
-* Version ist noch nicht lauffähig und wird gerade portiert# aw_navigation
+* Die Navigation ist bereits im praktischen Einsatz

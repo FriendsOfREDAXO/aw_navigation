@@ -1,0 +1,13 @@
+package: awnav
+version: '0.2.1'
+author: Wolfgang Bund
+supportpage: www.redaxo.org/de/forum/
+
+page:
+    title: 'translate:awnav'
+    icon: rex-icon fa-bars
+
+
+requires:
+    redaxo: '>=5.0.0'
+
