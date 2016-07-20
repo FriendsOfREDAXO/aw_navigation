@@ -20,3 +20,11 @@ Last Changes
 ### Version 0.2.1 // 20.07.2016
 
 * Die Navigation ist bereits im praktischen Einsatz
+
+
+Special
+-------
+
+Die Navigation ist als Baukasten für eigene Navigationen gedacht. Derzeit ist sie hauptsächlich für die Drilldown Navigation des Foundation Frameworks optimiert.
+
+
