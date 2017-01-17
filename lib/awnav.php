@@ -71,7 +71,11 @@ class awnav {
    }
    
    private function filterNav($category) {
-      return ($category->getValue($this->metaField) == $this->metaValue);
+      $metaval = explode('|',trim($category->getValue($this->metaField),'|'));
+      if (array_search($this->metaValue,$metaval) === false) {
+         return false;
+      }
+      return true;
    }
 
    private function _getCategory($cat,$lev = 0) {
